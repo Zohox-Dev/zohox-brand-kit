@@ -25,9 +25,7 @@ Use these official badges to showcase your membership status in Zohox Dev organi
 ### Core Team Badge
 
 <img src="https://img.shields.io/badge/ZOHOX-CORE%20TEAM-0ea5e9?style=for-the-badge&logo=starship&logoColor=white" alt="Zohox Core Team" />
-```html
-<img src="https://img.shields.io/badge/ZOHOX-CORE%20TEAM-0ea5e9?style=for-the-badge&logo=starship&logoColor=white" alt="Zohox Core Team" />
-```
+```html <img src="https://img.shields.io/badge/ZOHOX-CORE%20TEAM-0ea5e9?style=for-the-badge&logo=starship&logoColor=white" alt="Zohox Core Team" /> ```
 
 <br>
 
